@@ -1,12 +1,9 @@
 # Multi-label Dialect Identification
 
-This repo will contain experimental code on multi-label dialect
-identification, developed for a paper entitled "Dialect and Variant
-Identification as a Multi-Label Classification Task: A Proposal Based
-on Near-Duplicate Analysis" (Bernier-Colborne, Goutte, and Léger,
-2023), which was accepted for presentation at the VarDial 2023
-workshop.
-
-The code will be made available shortly.
-
+The experimental code developed for the paper entitled "[Dialect and
+Variant Identification as a Multi-Label Classification Task: A
+Proposal Based on Near-Duplicate
+Analysis](https://aclanthology.org/2023.vardial-1.15/)"
+(Bernier-Colborne, Goutte, and Léger, 2023) is available
+[here](https://github.com/nrc-cnrc/vardial-2023).
 
